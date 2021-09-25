@@ -1,1 +1,4 @@
-# to_do_list
+# To-Do List 
+Organise your tasks.
+Schedule your priorities.
+Redifining simplicity.
