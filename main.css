@@ -87,7 +87,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 2px solid #d1d3d4;
+/*     border-bottom: 2px solid #d1d3d4; */
 
 }
 .task span{
